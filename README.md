@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... SSAFY in Gwangju
+- 🔭 I’m currently working on ... in Gwangju
 - 🌱 I’m currently learning ... Git, Python, HtmlCssJs, algorithm
 - 👯 I’m looking to collaborate on ... Classmates
 - 🤔 I’m looking for help with ... 
