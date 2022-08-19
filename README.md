@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... 010-4127-3286
 - 😄 Pronouns: ... ISFJ
 - ⚡ Fun fact: ... Tennis, Golf, Badminton
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=psihyeong&style=for-the-badge&color=blue" alt=""/>
+</div>
