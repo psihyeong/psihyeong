@@ -14,6 +14,9 @@ Here are some ideas to get you started:
     [<img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>](https://getbootstrap.com/) &nbsp;&nbsp;
   >> [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />]() &nbsp;&nbsp;
   >> [<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>]() &nbsp;&nbsp;
+  >> [<img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>] &nbsp;&nbsp;
+  >> [<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"/>] &nbsp;&nbsp;
+
   >>> [<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>]() &nbsp;&nbsp;
   >>> [<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">]() &nbsp;&nbsp;
   >>>> [<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>](https://git-scm.com/) &nbsp;&nbsp; 
