@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SihyeongPark&fontSize=90&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SihyeongPark&fontSize=90)
 <h3 align="center"> Hi there 👋</h3>
 <h4 align="center"> I'm Sihyeong Park, a growing developer🌱 </h4>
 <h4 align="center"> I wanna be a developer 😄actively communicate with you!😄</h4>
