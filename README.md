@@ -61,10 +61,13 @@
 <br />
 <h2 align="center"> :gem: SSAFY :gem: </h2>
 <p align="center">
-😀 WebRTC 기반 중고상품 라이브경매 서비스 zum:go - SSAFY 8기 공통 프로젝트
+📰 실시간 크롤링 및 분산 처리를 통한 뉴스 트렌드 시각화 서비스 T:Lens
 </p><p align="center">
-📸 Open API와 외부 데이터를 활용한 영화 추천 알고리즘 기반 커뮤니티 서비스 - SSAFY 8기 관통 프로젝트
+🎁 WebRTC 기반 중고상품 라이브경매 서비스 Zum:go
+</p><p align="center">
+🎥 Open API와 외부 데이터를 활용한 영화 추천 알고리즘 기반 커뮤니티 서비스 Movie Spotter
 </p>
+
 <br/>
 <!--[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={aldzltkfkdgo})](https://solved.ac/{aldzltkfkdgo})-->
