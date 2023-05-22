@@ -2,7 +2,7 @@
 
 I wanna be a developer actively communicate with you!😄</br>
 Interested in backend development solving problems from different perspectives.</br>
-For More Info... [BLOG](https://psihyeong.tistory.com/) | [RESUME](https://www.notion.so/Sihyeong-Park-67c159fffe4444129645d318be1c0d1d)
+For More Info... [BLOG](https://psihyeong.tistory.com/) | [RESUME](https://salty-ferryboat-bc7.notion.site/Sihyeong-Park-67c159fffe4444129645d318be1c0d1d)
 
 
 <!--STACK-->
