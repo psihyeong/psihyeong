@@ -2,11 +2,11 @@
 
 <h4>I wanna be a developer actively communicate with you!😄</h4>
 <h4>Interested in backend development solving problems from different perspectives.</h4>
-<h5> For More Info... [BLOG](https://psihyeong.tistory.com/) | [RESUME](https://www.notion.so/Sihyeong-Park-67c159fffe4444129645d318be1c0d1d)</h5>
+*For More Info...*  [BLOG](https://psihyeong.tistory.com/) | [RESUME](https://www.notion.so/Sihyeong-Park-67c159fffe4444129645d318be1c0d1d)
 
 
 <!--STACK-->
-<h2> :books: Interest Tech Stack :books: </h2>
+<h2> :books: Interest Tech Stack </h2>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
@@ -42,19 +42,20 @@
 </p>
 
 <h2>:gem: Project</h2>
-| Service | Description | Group | Link |
-|:---:|:---:|:---:|:---:|
-| 노션으로 가는 이야기 (Nogari) | 원스톱으로 노션에서 타 포스팅 플랫폼으로 페이지를 발행해주는 서비스 | 삼성 청년 SW 아카데미 | [Github Repo](https://github.com/psihyeong/Nogari-react-with-springboot) <br> [Web Link](https://www.nogari.me) |
-| T:Lens | 실시간 크롤링 및 분산 처리를 통한 뉴스 트렌드 시각화 서비스 | 삼성 청년 SW 아카데미 | [Github Repo](https://github.com/psihyeong/TLens-react-with-springboot) |
-| Zum:go (줌고) | WebRTC 기반 중고상품 라이브경매 서비스 | 삼성 청년 SW 아카데미 | [Github Repo](https://github.com/psihyeong/TLens-react-with-springboot) |
-| Movie Spotter | Open API와 외부 데이터를 활용한 영화 추천 알고리즘 기반 커뮤니티 서비스 | 삼성 청년 SW 아카데미 | [Github Repo](https://github.com/psihyeong/TLens-react-with-springboot) |
+
+| Service | Description | Group |                                                       Link                                                       |
+|:---:|:---:|:---:|:----------------------------------------------------------------------------------------------------------------:|
+| 노션으로 가는 이야기 (Nogari) | 원스톱으로 노션에서 타 포스팅 플랫폼으로 페이지를 발행해주는 서비스 | 삼성 청년 SW 아카데미 | [Github Repo](https://github.com/psihyeong/Nogari-react-with-springboot) <br/> [Web Link](https://www.nogari.me) |
+| T:Lens | 실시간 크롤링 및 분산 처리를 통한 뉴스 트렌드 시각화 서비스 | 삼성 청년 SW 아카데미 |                     [Github Repo](https://github.com/psihyeong/TLens-react-with-springboot)                      |
+| Zum:go (줌고) | WebRTC 기반 중고상품 라이브경매 서비스 | 삼성 청년 SW 아카데미 |                     [Github Repo](https://github.com/psihyeong/TLens-react-with-springboot)                      |
+| Movie Spotter | Open API와 외부 데이터를 활용한 영화 추천 알고리즘 기반 커뮤니티 서비스 | 삼성 청년 SW 아카데미 |                     [Github Repo](https://github.com/psihyeong/TLens-react-with-springboot)                      |
 
 
 
 <br/>
 <!--[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={aldzltkfkdgo})](https://solved.ac/{aldzltkfkdgo})-->
-<h2> :bulb: Sihyeong's Stats :bulb: </h2>
+<h2> :bulb: Sihyeong's Stats </h2>
 
 ![Sihyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=psihyeong&show_icons=true&theme=buefy)
 
