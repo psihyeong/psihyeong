@@ -2,44 +2,44 @@
 
 <h4>I wanna be a developer actively communicate with you!😄</h4>
 <h4>Interested in backend development solving problems from different perspectives.</h4>
-*For More Info...*  [BLOG](https://psihyeong.tistory.com/) | [RESUME](https://www.notion.so/Sihyeong-Park-67c159fffe4444129645d318be1c0d1d)
+<h5> For More Info... [BLOG](https://psihyeong.tistory.com/) | [RESUME](https://www.notion.so/Sihyeong-Park-67c159fffe4444129645d318be1c0d1d)</h5>
 
 
 <!--STACK-->
 <h2> :books: Interest Tech Stack </h2>
-<p>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-</p>
-<p>
+
+<br/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
-<p>
+
+<br/>
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white"/>
-</p>
-<p>
+
+<br/>
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white"/>
-</p>
-<p>
+
+<br/>
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-</p>
-<p>
+
+<br/>
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=Gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white"/>
-</p>
+
 
 <h2>:gem: Project</h2>
 
@@ -52,7 +52,6 @@
 
 
 
-<br/>
 <!--[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={aldzltkfkdgo})](https://solved.ac/{aldzltkfkdgo})-->
 <h2> :bulb: Sihyeong's Stats </h2>
