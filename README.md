@@ -7,7 +7,7 @@ For More Info... [BLOG](https://psihyeong.tistory.com/)
 
 <!--STACK-->
 <h2> :books: Interest Tech Stack </h2>
-
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
@@ -39,7 +39,7 @@ For More Info... [BLOG](https://psihyeong.tistory.com/)
 <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=Gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white"/>
-
+</p>
 
 <h2>:gem: Project</h2>
 
