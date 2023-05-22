@@ -2,7 +2,7 @@
 
 I wanna be a developer actively communicate with you!😄</br>
 Interested in backend development solving problems from different perspectives.</br>
-For More Info... [BLOG](https://psihyeong.tistory.com/)
+For More Info... [BLOG](https://psihyeong.tistory.com/) | [RESUME](https://www.notion.so/Sihyeong-Park-67c159fffe4444129645d318be1c0d1d)
 
 
 <!--STACK-->
@@ -56,8 +56,9 @@ For More Info... [BLOG](https://psihyeong.tistory.com/)
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={aldzltkfkdgo})](https://solved.ac/{aldzltkfkdgo})-->
 <h2> :bulb: Sihyeong's Stats </h2>
 
+<div align="">
+
 ![Sihyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=psihyeong&show_icons=true&theme=buefy)
-
-<h2> My baekjoon </h2>
-
 [![Solved.ac psh1514](http://mazassumnida.wtf/api/v2/generate_badge?boj=psh1514)](https://solved.ac/psh1514)
+
+</div>
