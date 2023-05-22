@@ -1,8 +1,8 @@
 ## 박시형 | Sihyeong Park
 
-<h4>I wanna be a developer actively communicate with you!😄</h4>
-<h4>Interested in backend development solving problems from different perspectives.</h4>
-<h5> For More Info... [BLOG](https://psihyeong.tistory.com/) | [RESUME](https://www.notion.so/Sihyeong-Park-67c159fffe4444129645d318be1c0d1d)</h5>
+I wanna be a developer actively communicate with you!😄</br>
+Interested in backend development solving problems from different perspectives.</br>
+For More Info... [BLOG](https://psihyeong.tistory.com/)
 
 
 <!--STACK-->
