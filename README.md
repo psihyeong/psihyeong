@@ -47,8 +47,8 @@ For More Info... [BLOG](https://psihyeong.tistory.com/) | [RESUME](https://psihy
 |:---:|:---:|:-----:|:----------------------------------------------------------------------------------------------------------------:|
 | 노션으로 가는 이야기 (Nogari) | 원스톱으로 노션에서 타 포스팅 플랫폼으로 페이지를 발행해주는 서비스 | SSAFY | [Github Repo](https://github.com/psihyeong/Nogari-react-with-springboot) /<br> [Web Link](https://www.nogari.me) |
 | T:Lens | 실시간 크롤링 및 분산 처리를 통한 뉴스 트렌드 시각화 서비스 | SSAFY |                     [Github Repo](https://github.com/psihyeong/TLens-react-with-springboot)                      |
-| Zum:go (줌고) | WebRTC 기반 중고상품 라이브경매 서비스 | SSAFY |                     [Github Repo](https://github.com/psihyeong/TLens-react-with-springboot)                      |
-| Movie Spotter | Open API와 외부 데이터를 활용한 영화 추천 알고리즘 기반 커뮤니티 서비스 | SSAFY |                     [Github Repo](https://github.com/psihyeong/TLens-react-with-springboot)                      |
+| Zum:go (줌고) | WebRTC 기반 중고상품 라이브경매 서비스 | SSAFY |                     [Github Repo](https://github.com/psihyeong/Zumgo-react-with-springboot)                      |
+| Movie Spotter | Open API와 외부 데이터를 활용한 영화 추천 알고리즘 기반 커뮤니티 서비스 | SSAFY |                     [Github Repo](https://github.com/psihyeong/Movie-Spotter-vuejs-with-DRF)                      |
 
 
 
